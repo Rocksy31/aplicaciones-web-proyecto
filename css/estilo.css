@@ -1,0 +1,49 @@
+BODY{
+  background: #008080;
+}
+*{
+  margin:3;
+  padding:0;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  height:40px;
+  background-color: #000080;
+}
+nav ul{
+  list-style: none;
+  margin:0px;
+  padding: 0px;
+}
+nav ul li{
+  float:left;
+}
+nav ul li a{
+  color:white;
+  line-height: 20px;
+  padding: 0px 4px;
+  display: block;
+}
+nav ul li a:hover{
+  background-color: #0000FF;
+  color:white;
+}
+.active{
+  background-color: #0000FF;
+  color:white;
+}
+h1{
+  font-size: 70px;
+  font-style: italic;
+  color: Red;
+}
+h3{
+  color:purple;
+  font-size: 30px;
+  font-style: oblique;
+}
+table tr td{
+color:pink;
+}

@@ -1,0 +1,375 @@
+<HTML>
+<HEAD>
+<TITLE> Coronavirus </TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<H1> Coronavirus, ¿Qué hay que saber?</H1>
+<br><header> <b>Materia<b> Diseña páginas web.<br>
+<b>Tema</b> Coronavirus.<br>
+<b>Alumno</b> Norma Rocio Chavez Ponce.<br>
+<b>Maestro</b> Victor Omar Contreras.<br>
+<b>Fecha</b> 01/04/2020. </header>
+<br> <H3> Comienzos de la pandemia</H3><br>
+A finales del año 2019 y a principios de 2020 hubo casos de <br>
+brotes de neumonía en algunos habitantes de la ciudad de Wuhan, <br>
+China, así que el día 1 de enero de el año en curso Wuhan decidió <br>
+cerrar el mercado de mariscos en huanan, pues se creía que de ahí<br>
+provenía el virus, que se creía que eran SARS o MERS. Dicha duda se <br>
+aclaró el 5 de enero, así que comenzó la investigación para descubrir<br>
+de qué virus se trataba. Fué así que el 7 de enero se descubrió que<br>
+se trataba de un nuevo Coronavirus, que la OMSS llamó <strong>2019-nCoV</strong>. <br>
+Finalmente, a partir del 12 de enero se comenzaron a tomar medidas<br>
+a nivel mundial.<br><br>
+<H3> Primeros casos</H3><br>
+Como mencioné antes, los primeros casos se dieron en la ciudad de <br>
+Wuhan, China, el primer muerto fué un hombre de 40 años de edad <br>
+quien falleció el día 2 de enero del 2020 tras viajar a Filipinas, no se conocen nombres<br>
+de las primeras víctimas. <br><br>
+<H3> Paises contaminados<H3><br>
+<table class="egt">
+<tr> País
+<td><b>México</b></td>
+<td>Estados Unidos</td>
+<td>Italia</td>
+<td>España</td>
+<td>China</td>
+<td>Alemania</td>
+<td>Francia</td>
+<td>Irán</td>
+<td>Reino Unido</td>
+<td>Suiza</td>
+<td>Turquía</td>
+<td>Bélgica</td>
+<td>Holanda</td>
+<td>Austria</td>
+<td>Corea del sur</td>
+<td>Canadá</td>
+<td>Portugal</td>
+<td>Brasil</td>
+<td>Israel</td>
+<td>Suecia</td>
+<td>Australia</td>
+<td>Noruega</td>
+<td>República Checa</td>
+<td>Irlanda</td>
+<td>Dinamarca</td>
+<td>Chile</td>
+<td>Malasia</td>
+<td>Rusia</td>
+<td>Ecuador</td>
+<td>Rumania</td>
+<td>Polonia</td>
+<td>Luxemburgo</td>
+<td>Filipinas</td>
+<td>Japón</td>
+<td>Pakistán</td>
+<td>Tailandia</td>
+<td>Arabia Saudita</td>
+<td>Indonesia</td>
+<td>India</td>
+<td>Finlandia</td>
+<td>Grecia</td>
+<td>Sudáfrica</td>
+<td>República Dominicana</td>
+<td>Islandia</td>
+<td>México</td>
+<td>Panamá</td>
+<td>Perú</td>
+<td>Serbia</td>
+<td>Argentina</td>
+<td>Singapur</td>
+<td>Croacia</td>
+<td>Colombia</td>
+<td>Argelia</td>
+<td>Eslobenia</td>
+<td>Qatar</td>
+<td>Estonia</td>
+<td>Crucero Diamond Princess</td>
+<td>Egipto</td>
+<td>Nueva Zelanda</td>
+<td>Irak</td>
+<td>Ucrania</td>
+<td>Emiratos Árabes Unidos</td>
+<td>Marruecos</td>
+<td>Lutuania</td>
+<td>Armenia</td>
+<td>Bahréin</td>
+<td>Hungría</td>
+<td>Líbano</td>
+<td>Bosnia y Harzegovina</td>
+<td>Letonia</td>
+<td>Tunéz</td>
+<td>Moldavia</td>
+<td>Bulgaria</td>
+<td>Eslovaquia</td>
+<td>Andorra</td>
+<td>Kazajistán</td>
+<td>Arzebaiyán</td>
+<td>Marcedonia del norte</td>
+<td>Costa Rica</td>
+<td>Uruguay</td>
+<td>Taiwán</td>
+<td>Chipre</td>
+<td>Kuwait</td>
+<td>Puerto Rico</td>
+</tr>
+<tr> Infectados
+<td><b>1.215</b></td>
+<td>198.693</td>
+<td>110.574</td>
+<td>102.136</td>
+<td>82.361</td>
+<td>76.544</td>
+<td>52.128</td>
+<td>47.593</td>
+<td>29.474</td>
+<td>17.137</td>
+<td>15.679</td>
+<td>13.964</td>
+<td>13.614</td>
+<td>10.585</td>
+<td>9.887</td>
+<td>8.591</td>
+<td>8.251</td>
+<td>5.923</td>
+<td>5.591</td>
+<td>4.947</td>
+<td>4.860</td>
+<td>4.828</td>
+<td>3.508</td>
+<td>3.447</td>
+<td>3.092</td>
+<td>3.031</td>
+<td>2.908</td>
+<td>2.777</td>
+<td>2.748</td>
+<td>2.460</td>
+<td>2.420</td>
+<td>2.319</td>
+<td>2.311</td>
+<td>2.178</td>
+<td>2.071</td>
+<td>1.771</td>
+<td>1.720</td>
+<td>1.677	</td>
+<td>1.637</td>
+<td>1.446</td>
+<td>1.415</td>
+<td>1.380</td>
+<td>1.284</td>
+<td>1.220</td>
+<td>1.215</td>
+<td>1.181</td>
+<td>1.065</td>
+<td>1.060</td>
+<td>1.054</td>
+<td>1.000</td>
+<td>963</td>
+<td>906</td>
+<td>847</td>
+<td>841</td>
+<td>781</td>
+<td>779</td>
+<td>712</td>
+<td>710</td>
+<td>708</td>
+<td>694</td>
+<td>669</td>
+<td>664</td>
+<td>638</td>
+<td>581</td>
+<td>571</td>
+<td>567</td>
+<td>525</td>
+<td>479</td>
+<td>457</td>
+<td>446</td>
+<td>423</td>
+<td>423</td>
+<td>422</td>
+<td>400</td>
+<td>390</td>
+<td>380</td>
+<td>359</td>
+<td>354</td>
+<td>347</td>
+<td>338</td>
+<td>329</td>
+<td>320</td>
+<td>317</td>
+<td>286</td>
+<td>281</td>
+<td>274</td>
+</tr>
+<tr> Muertes
+<td><b>29</b></td>
+<td>4.347</td>
+<td>4.347</td>
+<td>13.155</td>
+<td>13.155</td>
+<td>9.053</td>
+<td>3.316</td>
+<td>3.316</td>
+<td>3.523</td>
+<td>3.036</td>
+<td>2.352</td>
+<td>461</td>
+<td>277</td>
+<td>828</td>
+<td>1.173</td>
+<td>146</td>
+<td>165</td>
+<td>102</td>
+<td>187</td>
+<td>206</td>
+<td>23</td>
+<td>239</td>
+<td>20</td>
+<td>43</td>
+<td>39</td>
+<td>85</td>
+<td>104</td>
+<td>16</td>
+<td>45</td>
+<td>24</td>
+<td>93</td>
+<td>86</td>
+<td>36</td>
+<td>29</td>
+<td>96</td>
+<td>57</td>
+<td>26</td>
+<td>12</td>
+<td>16</td>
+<td>157</td>
+<td>45</td>
+<td>17</td>
+<td>50</td>
+<td>5</td>
+<td>57</td>
+<td>2</td>
+<td>29</td>
+<td>30</td>
+<td>30</td>
+<td>28</td>
+<td>28</td>
+<td>3</td>
+<td>6</td>
+<td>16</td>
+<td>58</td>
+<td>15</td>
+<td>2</td>
+<td>5</td>
+<td>11</td>
+<td>46</td>
+<td>1</td>
+<td>50</td>
+<td>17</td>
+<td>6</td>
+<td>37</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>20</td>
+<td>14</td>
+<td>13</td>
+<td>0</td>
+<td>12</td>
+<td>5</td>
+<td>9</td>
+<td>1</td>
+<td>14</td>
+<td>3</td>
+<td>5</td>
+<td>11</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+<td>9</td>
+<td>0</td>
+<td>11</td>
+<td> </td>
+<td>11</td>
+</tr>
+<br><br>
+<H3> Situación de México en general y Jalisco.</H3><br>
+El 28 de febrero, se confirmaron los primeros casos: un<br>
+italiano de 35 años de edad, residente de la Ciudad de<br>
+México, y un ciudadano de Hidalgo que se encontraba en<br>
+Sinaloa. Ambos habían viajado poco tiempo atrás a Italia.<br>
+Por la noche del mismo 28 de febrero, se oficializó un <br>
+tercer caso en la Ciudad de México.​ Estos últimos dos casos<br>
+se trataron de compañeros de trabajo que se infectaron al estar<br>
+en contacto con un italiano durante una convención llevada a<br>
+cabo en Bérgamo.<br>
+Por su parte, en Jalisco, El primer caso fue detectado el<br>
+11 de marzo, mientras que el segundo un día después. La <br>
+autoridad estatal informó que se trata de dos mujeres, una de<br>
+54 y otra de 64 años, ambas con antecedentes de viajes a Europa,<br>
+por lo que se clasifican como casos importados.<br>
+No se hicieron públicos los nombres<br>
+<b>ACTUALMENTE</b> hay 1.215 casos confirmados, 29 muertos y<br>
+se considera que si no se toman bien las medidas necesarias<br>
+hay millones de casos potenciales.<br>
+<br>
+<H3>Recomendaciones del gobierno federal</H3><br>
+Lavado frecuente de manos durante 30 segundos, para<br>
+lo cual se puede usar un cronómetro o cantar tres <br>
+estrofas de canciones como "Las mañanitas".<br><br>
+No saludar de beso, abrazo ni de mano, de manera que se <br>
+recomienda utilizar un saludo hablado o incluso hacer una<br>
+ reverencia, pero, en todo caso, evitar el contacto físico.<br><br>
+
+Seguir la etiqueta respiratoria, que consiste en tapar nariz y<br>
+ boca al toser o estornudar, con el ángulo interno del codo, y <br>
+ luego de ello lavarse las manos.<br><br>
+
+No salir de casa si se presentan síntomas característicos del <br>
+coronavirus como fiebre o tos.<br><br>
+
+"Algunas tendrán que irse escalando, es decir, se irán agregando<br>
+otras, algunas quizá implicarán mayor restricción de movilidad y <br>
+otras pueden complementar las distintas acciones", aseguró.<br><br>
+<H3>Recomendaciones del gobierno de Jalisco</H3><br>
+Manténte al día de la información oficial. Puedes acceder al sitio<br>
+web de la Organización Mundial de la Salud y a través de los sitios<br>
+web oficiales de Gobierno de Jalisco y la Secretaría de Salud Jalisco<br>
+para conocer información la más reciente sobre el brote de COVID-19 en<br>
+Jalisco y el mundo. No compartas información no oficial o sin una<br>
+fuente verificada.<br>
+
+Lávate las manos con frecuencia. Usa jabón y agua corriente para lavar<br>
+tus manos durante al menos 20 segundos. También puedes usar soluciones a<br>
+base de alcohol gel al 70 por ciento para fricción de manos. Esta <br>
+práctica mata los virus que pueda haber en tus manos.<br>
+
+Mantén una distancia mínima de 1 metro entre cualquier persona que tosa <br>
+o estornude. Cuando alguien tose o estornuda, despide por la nariz o por la<br>
+boca unas gotículas de líquido que pueden contener el virus. Si estás<br>
+demasiado cerca, puedes respirar las gotículas y con ellas el virus de la<br>
+COVID-19, si la persona que tose tiene la enfermedad.<br>
+
+Evite tocarse los ojos, la nariz y la boca. Las manos tocan muchas superficies<br>
+y pueden recoger virus. Una vez contaminadas, las manos pueden transferir el<br>
+virus a los ojos, la nariz o la boca. Desde allí, el virus puede entrar en su <br>
+cuerpo y causarle la enfermedad.<br>
+
+Mantén una buena higiene de las vías respiratorias. Eso significa que tú y las<br>
+personas que te rodean deben cubrirse la boca y la nariz con el codo doblado o <br>
+con un pañuelo de papel al toser o estornudar. El pañuelo usado debe desecharse de<br>
+inmediato. Los virus se propagan a través de las gotículas. Al mantener una buena <br>
+higiene respiratoria está protegiendo a las personas que le rodean de virus como los<br>
+del resfriado, la gripe y la COVID-19.<br>
+
+Permanece en casa si no se encuentra bien de salud. Si tiene fiebre, tos y dificultad<br>
+para respirar, busca atención médica y llama con antelación. Sigue las instrucciones<br>
+de las autoridades sanitarias locales.<br>
+<H3>CONCLUSION:</H3>
+Si bien muchas fuentes informativas nos han hecho alarmarnos demasiado con este tema,<br>
+eso tampoco significa que es un tema falso, la pandemia existe y es un gran<br>
+problema actual; por lo tanto, es necesario tomar las medidas necesarias y <br>
+protegernos tanto a nosotros como a los que nos rodean.
+</CENTER>
+</BODY>
+</HTML>
